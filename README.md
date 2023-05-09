@@ -4,5 +4,5 @@ Issues tokens based on a standard header, submitted claims encrypted with the tr
 
 # Installation
 ```
-go get https://github.com/simpledevdima/jwt
+go get github.com/simpledevdima/jwt
 ```
